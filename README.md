@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Trevor McCowen
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Modified existing infrastructure for HTML framework in order to incorporate JSON, AJAX and XML elements. 
+These elements added dynamic features such as additional information display columns and enhanced search display funtionality.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tmccowen.github.io/Lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Useage of API keys to register unique identity with creator of currently utilized entity, as well as distributing usage information to aforementioned creator.
+2. Utilization of JSON elements to create pathways to display relevant information about search queries.
+3. Direct use of AJAX language in order to load relevant data about search queries by granting permission and directing user traffic through corresponding pathways.
